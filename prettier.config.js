@@ -2,10 +2,10 @@ module.exports = {
   bracketSpacing: true,
   jsxBracketSameLine: false,
   printWidth: 80,
-  proseWrap: 'never',
+  proseWrap: "never",
   semi: true,
   singleQuote: true,
   tabWidth: 2,
-  trailingComma: 'es5',
+  trailingComma: "es5",
   useTabs: false,
 };
